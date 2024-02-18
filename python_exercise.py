@@ -1,2 +1,2 @@
-print("lilach")
-print("Amar")
+print("Alex")
+print("Kuznestov")
